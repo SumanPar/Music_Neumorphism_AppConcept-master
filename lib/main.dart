@@ -17,6 +17,6 @@ class MyApp extends StatelessWidget {
         ),
         onGenerateRoute: generateRoute,
         navigatorKey: navigatorKey,
-        initialRoute: Routes.SongList);
+        initialRoute: Routes.SongList); // you can see the material design
   }
 }
